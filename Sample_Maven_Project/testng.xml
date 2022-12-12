@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Sample_Maven_ELF39.DemoWebShop_Register_Test"/>
+      <class name="Sample_Maven_ELF39.MavenDemoTest"/>
+      <class name="Sample_Maven_ELF39.Demowebshop_SearchTest"/>	int num=1;
+	char ch='a';
+	for(int i=1;i<=4;i++) {
+		for(int j=1;j<=4;j++) {
+			if(i%2==0) {
+				System.out.print(ch);
+				ch++;
+			}
+			else {
+				System.out.print(num);
+				num++;
+			}	int num=1;
+	char ch='a';
+	for(int i=1;i<=4;i++) {
+		for(int j=1;j<=4;j++) {
+			if(i%2==0) {
+				System.out.print(ch);
+				ch++;
+			}
+			else {
+				System.out.print(num);
+				num++;
+			}
+		}
+		System.out.println();
+	}
+	
+}
+}
+		}
+		System.out.println();
+	}
+	
+}
+}
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
