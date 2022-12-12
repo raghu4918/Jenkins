@@ -16,7 +16,7 @@ public void TC01() {
 	driver.manage().window().maximize();
 	driver.findElement(By.xpath("//input[@id='small-searchterms']")).sendKeys("books");
 	driver.findElement(By.xpath("(//input[@type='submit'])[1]")).click();
-//	driver.close();
+//driver.close();
 	
 }
 }

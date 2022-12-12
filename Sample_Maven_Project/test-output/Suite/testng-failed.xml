@@ -8,6 +8,11 @@
           <include name="p2"/>
         </methods>
       </class> <!-- Sample_Maven_ELF39.DemoWebShop_Register_Test -->
+      <class name="Sample_Maven_ELF39.Demowebshop_SearchTest">
+        <methods>
+          <include name="TC01"/>
+        </methods>
+      </class> <!-- Sample_Maven_ELF39.Demowebshop_SearchTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
